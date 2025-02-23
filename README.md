@@ -20,7 +20,7 @@ InvestIQ is a **real-time stock ranking & trading simulation** platform for **co
 ## 📌 Installation & Setup
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/InvestIQ.git
+git clone https://github.com/Shubh-221b375/InvestIQ.git
 cd InvestIQ
 
 # Install dependencies
